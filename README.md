@@ -29,4 +29,3 @@ overview:
 
 The report provides an in-depth examination of multiple factors, including production by state and crop type, annual trends, the effects of different seasons, and detailed segmentations. This thorough analysis is designed to underscore the essential indicators and metrics that drive crop production. 
 
-#Agriculture #DataAnalytics #CropProduction #Sustainability #Farming #AgriTech #Innovation
